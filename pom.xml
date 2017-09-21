@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>pl.coderslab</groupId>
-  <artifactId>hibernatetasks</artifactId>
+  <artifactId>cleanSpringProject</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>hibernatetasks Maven Webapp</name>
+  <name>cleanSpringProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
 	<org.springframework-version>4.3.7.RELEASE</org.springframework-version>
@@ -73,6 +73,6 @@
 				</configuration>
 			</plugin>
 </plugins>
-    <finalName>hibernatetasks</finalName>
+    <finalName>cleanSpringProject</finalName>
   </build>
 </project>
